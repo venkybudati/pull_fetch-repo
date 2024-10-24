@@ -1,4 +1,4 @@
-a="jayakrishna"
+a="jayakrishna "
 count_char={}
 for i in a:
     if i in count_char:
